@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array iteration. The bug causes an `ArrayIndexOutOfBoundsException` because the loop iterates one element beyond the array's bounds. The solution shows how to correct this error by using the '<' operator instead of '<=' in the loop condition.
